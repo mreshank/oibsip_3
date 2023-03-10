@@ -271,4 +271,3 @@ class sampleDataGen{
         return UserData;
     }
 }
-
